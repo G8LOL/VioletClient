@@ -1,0 +1,24 @@
+-Note the client is still in its BETA phase*
+-Report Issues and we will fix them
+- Chams is Buggy atm.
++ New Speed
++ Added TargetStrafe
++ New Disabler
++ Draggable Overlay Components
+- Removed Developer Criticals for Testing
+* Improved AntiBot for staff
++ Arraylist Colors
+- Pulse
+- PulseDark
+- MultiWave
+- MultiWaveDark
+- Random
+- Static
+- CheatColor
+* Improved Step
+* Radar Prediction
+- NoRotate for testing
+* Improved AntiFall
+* Improved Scaffold Speed
+* Improved Autoblock to be the Best
+* Fixed Minor Bugs
