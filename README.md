@@ -12,8 +12,8 @@ Make a Pull request or an issue!
 
 
 ## Credits
-NEFARIOUS INTENT - Deobf'd jars
-AETHER - SMART PERSON
+- NEFARIOUS INTENT - Deobf'd jars
+- AETHER - SMART PERSON
 
 (IF I FORGOT YOUR NAME, PLEASE OPEN AN ISSUE)
 
