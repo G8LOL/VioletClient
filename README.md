@@ -27,6 +27,7 @@ Make a Pull request or an issue!
 ## Support the people credited
 - Go buy ZeroDay @ https://intent.store (to support nefarious intent)
 - Go buy Aether @ https://discord.gg/ze5QPsCQwt (not the person, his client named after him lmao)
+- Go buy Moon @ https://moonclient.xyz (to support lennox)
 
 
 ## CallumUncensored was here.
