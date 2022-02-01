@@ -17,6 +17,7 @@ Make a Pull request or an issue!
 - AETHER - SMART PERSON
 - daydreaminnq - being logged lol
 - Lennox - General help.
+- Verity - Screenshots
 
 ### People from the screenshots below (TOO LAZY TO WRITE OUT):
 ![DiscordCanary_gQMQeUaQPA](https://user-images.githubusercontent.com/45427259/152046416-24d84d83-14fe-47fe-9643-b1b64945ccbd.png)
