@@ -5,6 +5,11 @@ Violet Client, the website archive, deobf'd jars, ect.
 If you would like to add something that isn't listed:
 Make a Pull request or an issue!
 
+#MAKE SURE TO FORK INCASE OF TAKEDOWNS.
+#MAKE SURE TO FORK INCASE OF TAKEDOWNS.
+#MAKE SURE TO FORK INCASE OF TAKEDOWNS.
+
+
 Thanks to:
 NEFARIOUS INTENT - Deobf'd jars
 AETHER - SMART PERSON
