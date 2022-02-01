@@ -12,15 +12,15 @@ Make a Pull request or an issue!
 
 
 ## Credits
-Main Credits:
+###Main Credits:
 - NEFARIOUS INTENT - Deobf'd jars
 - AETHER - SMART PERSON
 - daydreaminnq - being logged lol
 - Lennox - General help.
 
-People from the screenshots below (TOO LAZY TO WRITE OUT):
+###People from the screenshots below (TOO LAZY TO WRITE OUT):
 ![DiscordCanary_gQMQeUaQPA](https://user-images.githubusercontent.com/45427259/152046416-24d84d83-14fe-47fe-9643-b1b64945ccbd.png)
-They all (probably) contributed.
+- They all (probably) contributed.
 
 (IF I FORGOT YOUR NAME, PLEASE OPEN AN ISSUE)
 
