@@ -17,6 +17,7 @@ Make a Pull request or an issue!
 - AETHER - SMART PERSON
 - daydreaminnq - being logged lol
 - Lennox - General help.
+- G8LOL - Normalise and Remapping.
 - Verity - Screenshots
 
 ### People from the screenshots below (TOO LAZY TO WRITE OUT):
