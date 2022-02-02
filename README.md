@@ -20,9 +20,15 @@ Make a Pull request or an issue!
 - G8LOL - Normalise and Remapping.
 - Verity - Screenshots
 
-### People from the screenshots below (TOO LAZY TO WRITE OUT):
+### People from the screenshots below:
 ![DiscordCanary_gQMQeUaQPA](https://user-images.githubusercontent.com/45427259/152046416-24d84d83-14fe-47fe-9643-b1b64945ccbd.png)
-- They all (probably) contributed.
+- Nefarious
+- Aether
+- Callum
+- daydreaminnq
+- G8LOL
+- nuesella
+- Zwixi
 
 (IF I FORGOT YOUR NAME, PLEASE OPEN AN ISSUE)
 
